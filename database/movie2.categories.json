@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a395"
+  },
+  "categoryName": "Hành động",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a396"
+  },
+  "categoryName": "Viễn tưởng",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a397"
+  },
+  "categoryName": "Tâm lý",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a398"
+  },
+  "categoryName": "Kinh dị",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a399"
+  },
+  "categoryName": "Hài hước",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a39a"
+  },
+  "categoryName": "Phiêu lưu",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a39b"
+  },
+  "categoryName": "Hoạt hình",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a39c"
+  },
+  "categoryName": "Lãng mạn",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a39d"
+  },
+  "categoryName": "Tài liệu",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a39e"
+  },
+  "categoryName": "Gia đình",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a39f"
+  },
+  "categoryName": "Trinh thám",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2280372b4edf9a6fd3a3a0"
+  },
+  "categoryName": "Giật gân",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-05T07:52:23.133Z"
+  }
+}]

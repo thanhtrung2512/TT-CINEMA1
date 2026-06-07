@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Avengers: Secret Wars",
+    "slug": "avengers-secret-wars",
+    "description": "Các siêu anh hùng mạnh nhất vũ trụ Marvel phải hợp sức chống lại mối đe dọa đa vũ trụ nguy hiểm nhất từng xuất hiện.",
+    "posterUrl": "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+    "trailer": "https://www.youtube.com/watch?v=PYiM7k0lX5M",
+    "aiSummary": "Bom tấn siêu anh hùng quy tụ dàn Avengers thế hệ mới.",
+    "status": "Sắp chiếu",
+    "categories": [
+      "Hành động",
+      "Viễn tưởng",
+      "Phiêu lưu"
+    ],
+    "ageRating": "T13",
+    "details": {
+      "duration": 145,
+      "country": "Mỹ",
+      "director": "Anthony Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Tom Holland",
+        "Benedict Cumberbatch"
+      ],
+      "releaseDate": "2026-12-18",
+      "language": "English",
+      "subtitle": "Vietnamese",
+      "rating": 9.3
+    }
+  },
+  {
+    "title": "Dune: Part Two",
+    "slug": "dune-part-two",
+    "description": "Paul Atreides hợp tác với Chani và người Fremen để trả thù những kẻ đã hủy hoại gia đình mình.",
+    "posterUrl": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "aiSummary": "Hành trình trở thành thủ lĩnh của Paul Atreides.",
+    "status": "Đang chiếu",
+    "categories": [
+      "Viễn tưởng",
+      "Phiêu lưu",
+      "Hành động"
+    ],
+    "ageRating": "T16",
+    "details": {
+      "duration": 166,
+      "country": "Mỹ",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson"
+      ],
+      "releaseDate": "2024-03-01",
+      "language": "English",
+      "subtitle": "Vietnamese",
+      "rating": 9.1
+    }
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "slug": "deadpool-and-wolverine",
+    "description": "Deadpool gặp Wolverine trong chuyến phiêu lưu hỗn loạn xuyên đa vũ trụ đầy máu me và hài hước.",
+    "posterUrl": "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=73_1biulkYw",
+    "aiSummary": "Sự kết hợp bùng nổ giữa Deadpool và Wolverine.",
+    "status": "Đang chiếu",
+    "categories": [
+      "Hành động",
+      "Hài",
+      "Viễn tưởng"
+    ],
+    "ageRating": "T18",
+    "details": {
+      "duration": 128,
+      "country": "Mỹ",
+      "director": "Shawn Levy",
+      "cast": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Emma Corrin"
+      ],
+      "releaseDate": "2024-07-26",
+      "language": "English",
+      "subtitle": "Vietnamese",
+      "rating": 8.9
+    }
+  },
+  {
+    "title": "Inside Out 2",
+    "slug": "inside-out-2",
+    "description": "Riley bước vào tuổi teen và những cảm xúc mới bắt đầu xuất hiện trong tâm trí cô bé.",
+    "posterUrl": "https://image.tmdb.org/t/p/original/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+    "trailer": "https://www.youtube.com/watch?v=LEjhY15eCx0",
+    "aiSummary": "Bộ phim hoạt hình cảm xúc đầy ý nghĩa của Pixar.",
+    "status": "Đang chiếu",
+    "categories": [
+      "Hoạt hình",
+      "Gia đình",
+      "Hài"
+    ],
+    "ageRating": "P",
+    "details": {
+      "duration": 96,
+      "country": "Mỹ",
+      "director": "Kelsey Mann",
+      "cast": [
+        "Amy Poehler",
+        "Maya Hawke",
+        "Kensington Tallman"
+      ],
+      "releaseDate": "2024-06-14",
+      "language": "English",
+      "subtitle": "Vietnamese",
+      "rating": 8.7
+    }
+  },
+  {
+    "title": "The Batman 2",
+    "slug": "the-batman-2",
+    "description": "Batman tiếp tục cuộc chiến chống tội phạm tại Gotham với những kẻ thù nguy hiểm mới.",
+    "posterUrl": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+    "aiSummary": "Hiệp sĩ bóng đêm trở lại với bầu không khí u tối hơn.",
+    "status": "Sắp chiếu",
+    "categories": [
+      "Hành động",
+      "Tội phạm",
+      "Bí ẩn"
+    ],
+    "ageRating": "T16",
+    "details": {
+      "duration": 155,
+      "country": "Mỹ",
+      "director": "Matt Reeves",
+      "cast": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Barry Keoghan"
+      ],
+      "releaseDate": "2026-10-02",
+      "language": "English",
+      "subtitle": "Vietnamese",
+      "rating": 9.0
+    }
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "slug": "kung-fu-panda-4",
+    "description": "Po đối mặt với thử thách mới khi tìm kiếm người kế nhiệm cho danh hiệu Thần Long Đại Hiệp.",
+    "posterUrl": "https://image.tmdb.org/t/p/original/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/5S0SI4NjyMji05OPL0GOZ4BsiMh.jpg",
+    "trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+    "aiSummary": "Po trở lại với những pha võ thuật hài hước.",
+    "status": "Đang chiếu",
+    "categories": [
+      "Hoạt hình",
+      "Hài",
+      "Phiêu lưu"
+    ],
+    "ageRating": "K",
+    "details": {
+      "duration": 94,
+      "country": "Mỹ",
+      "director": "Mike Mitchell",
+      "cast": [
+        "Jack Black",
+        "Awkwafina",
+        "Viola Davis"
+      ],
+      "releaseDate": "2024-03-08",
+      "language": "English",
+      "subtitle": "Vietnamese",
+      "rating": 8.5
+    }
+  }
+]
